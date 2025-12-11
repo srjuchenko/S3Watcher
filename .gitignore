@@ -1,0 +1,6 @@
+# .gitignore for .NET
+bin/
+obj/
+.vscode/
+.DS_Store
+*.user
